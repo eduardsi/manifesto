@@ -1,0 +1,2 @@
+# manifesto
+Manifesto of life
